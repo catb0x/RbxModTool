@@ -14,4 +14,5 @@ and the others on \YourFolder\Cursors\KeyboardMouse (Note: Only cursors export.)
 decalid,subfolder-optional\...\file.png,width-optional,height-optional).
 
 ## Notes
-i swear 1.1 is coming someday ill try to upload it tmrw
+~~i swear 1.1 is coming someday ill try to upload it tmrw~~
+gonna upload full 1.1 release in like 100 years idk
