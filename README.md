@@ -16,3 +16,6 @@ decalid,subfolder-optional\...\file.png,width-optional,height-optional).
 ## Notes
 ~~i swear 1.1 is coming someday ill try to upload it tmrw~~
 gonna upload full 1.1 release in like 100 years idk
+
+## Future
+so like i'm now using bloxstrap and it automatically does the mods 4 me so 1.1 will probably be the last release
